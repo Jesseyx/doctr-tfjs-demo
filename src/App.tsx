@@ -11,6 +11,7 @@ import PageFooter from "./components/PageFooter";
 import PageHeader from "./components/PageHeader";
 import VisionWrapper from "./components/VisionWrapper";
 import WelcomeMessage from "./components/WelcomeMessage";
+import "./utils/getBase64Image";
 
 const useStyles = makeStyles((theme: Theme) => ({
   wrapper: {
